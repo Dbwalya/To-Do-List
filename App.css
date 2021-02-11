@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-color:rgb(15, 16, 31);
+}
+header {
+  color: #bfd7fa;
+}
+input {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+button {
+  font-size: 18px;
+  border-radius: 0;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: normal;
+  padding: .5em 3.5em;
+  margin-right: .8em;
+  font-weight: 700;
+  background-color: #942d01;
+  color: #fff;
+  cursor: pointer;
+  border-radius: .3rem;
+}
+
+
+.toDoBox {
+  color: #fff;
+  background: rgb(80, 88, 33);
+  width: 35rem;
+  margin: 2rem auto;
+  padding: 5rem;
+  border-radius: 5px;
+  font-size: 15px;
+}
